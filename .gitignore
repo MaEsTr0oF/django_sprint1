@@ -148,5 +148,7 @@ dmypy.json
 # папки со статикой и медиа
 media/
 
-# папка с почтовыми сообщениями
-sent_emails/
+# Testing
+build_tests/
+yap_testing
+html/img/img/
